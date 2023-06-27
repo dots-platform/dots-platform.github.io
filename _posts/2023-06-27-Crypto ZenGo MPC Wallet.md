@@ -1,7 +1,7 @@
 ---
 title: ZenGo MPC Wallet
-date: 2023-06-24 06:24:30 -0800
-categories: [Wallet]
+date: 2023-06-27 06:24:30 -0800
+categories: [Crypto Wallet]
 tags: [ZenGo]
 toc: true
 image:
@@ -12,7 +12,7 @@ ZenGo, like other MPC wallets, replaces the traditional cryptocurrency private k
 
 ### Code
 
-[[ZenGo X]](https://github.com/ZenGo-X)
+[GitHub - ZenGo X](https://github.com/ZenGo-X)
 
 ### Links
 

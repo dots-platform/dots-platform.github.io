@@ -1,6 +1,6 @@
 ---
 title: MPC for Social Good
-date: 2023-06-24 06:24:30 -0800
+date: 2023-06-27 06:24:30 -0800
 categories: [Social Good]
 tags: [Boston University]
 toc: true
@@ -12,7 +12,7 @@ Researchers at Boston University have collaborated with several institutions in 
 
 ### Presentation
 
-[Slides](https://rwc.iacr.org/2019/slides/lucy.pdf)
+[Slides: Real World Crypto 2019](https://rwc.iacr.org/2019/slides/lucy.pdf)
 
 {% include embed/youtube.html id='5pkDq4sRWyQ' %}
 

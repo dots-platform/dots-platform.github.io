@@ -1,7 +1,7 @@
 ---
 title: Coinbase Wallet as a Service
-date: 2023-06-24 06:24:30 -0800
-categories: [Infrastructure]
+date: 2023-06-27 06:24:30 -0800
+categories: [Infrastructure,  Crypto Wallet]
 tags: [Coinbase]
 toc: true
 image:
@@ -12,7 +12,7 @@ Coinbase’s Wallet as a Service (WaaS) is a set of wallet infrastructure APIs, 
 
 The backup mechanism works by encrypting each shard of the private key under different backup keys, and providing a proof that these backups collectively encrypt the private key associated with the given public key. Then, a public key is enabled for use only after the backup recovery system has verified that it has a set of valid backups.
 
-Coinbase also offers a “self-custody backup” solution where the user can hold both shares encrypted under strong keys.
+Coinbase also offers a "self-custody backup" solution where the user can hold both shares encrypted under strong keys.
 
 ### Code
 

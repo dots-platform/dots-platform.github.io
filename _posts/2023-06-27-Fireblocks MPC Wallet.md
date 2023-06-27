@@ -1,7 +1,7 @@
 ---
 title: Fireblocks MPC Wallet
-date: 2023-06-24 06:24:30 -0800
-categories: [Wallet]
+date: 2023-06-27 06:24:30 -0800
+categories: [Crypto Wallet]
 tags: [Fireblocks]
 toc: true
 image:

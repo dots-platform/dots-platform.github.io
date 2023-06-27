@@ -1,6 +1,6 @@
 ---
 title: Privacy-Preserving Inventory Matching
-date: 2023-06-24 06:24:30 -0800
+date: 2023-06-27 06:24:30 -0800
 categories: [Private Inventory Matching]
 tags: [J.P. Morgan]
 toc: true
@@ -12,7 +12,7 @@ Inventory matching is a mechanism for trading financial stocks in which buyers a
 
 ### Presentation
 
-[Slides](https://docs.google.com/presentation/d/1XGln3GRyJZPO7rhtjads-hxd23Nd0TgmjvPYD-gi4lk/edit#slide=id.p1)
+[Slides: Real World Crypto 2023](https://docs.google.com/presentation/d/1XGln3GRyJZPO7rhtjads-hxd23Nd0TgmjvPYD-gi4lk/edit#slide=id.p1)
 
 {% include embed/youtube.html id='Q3glyMsaWIE' %}
 

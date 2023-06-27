@@ -1,6 +1,6 @@
 ---
 title: Private Lift Measurement for Private Advertising
-date: 2023-06-24 06:24:30 -0800
+date: 2023-06-27 06:24:30 -0800
 categories: [Private Advertisting]
 tags: [Meta]
 toc: true
@@ -26,4 +26,4 @@ Meta’s Private Lift Measurement uses MPC to allow both Meta and an advertiser 
 
 ### Presentation
 
-[https://iacr.org/submit/files/slides/2022/rwc/rwc2022/104/slides.pdf](https://iacr.org/submit/files/slides/2022/rwc/rwc2022/104/slides.pdf)
+[Slides: Real World Crypto 2022](https://iacr.org/submit/files/slides/2022/rwc/rwc2022/104/slides.pdf)

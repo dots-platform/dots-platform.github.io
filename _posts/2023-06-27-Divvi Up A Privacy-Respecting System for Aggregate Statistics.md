@@ -1,6 +1,6 @@
 ---
 title: Divvi Up, A Privacy-Respecting System for Aggregate Statistics
-date: 2023-06-24 06:24:30 -0800
+date: 2023-06-27 06:24:30 -0800
 categories: [Private Analytics]
 tags: [Internet Security Research Group]
 toc: true

@@ -1,7 +1,7 @@
 ---
 title: Web3Auth Wallet as a Service
-date: 2023-06-24 06:24:30 -0800
-categories: [Infrastructure]
+date: 2023-06-27 06:24:30 -0800
+categories: [Infrastructure, Crypto Wallet]
 tags: [Web3Auth]
 toc: true
 image:
