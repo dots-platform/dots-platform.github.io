@@ -2,7 +2,6 @@
 title: Title
 date: 2023-MM-DD HH:MM:SS -0800
 categories: [e.g. Infrastructure]
-tags: [e.g. Google]
 toc: true
 image:
     path: example.com

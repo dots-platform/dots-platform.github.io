@@ -2,7 +2,6 @@
 title: Coinbase Cryptocurrency Key Custody
 date: 2023-06-27 06:24:30 -0800
 categories: [Crypto Wallet]
-tags: [Coinbase]
 toc: true
 image:
     path: https://ctf-images-01.coinbasecdn.net/c5bd0wqjc7v0/3HNtoqqD2LJQLHjJZanDJE/fd370af7477d35448be6ce11cb1179bc/Wallet_SDK_HighRes2.png

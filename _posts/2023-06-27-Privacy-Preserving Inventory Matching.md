@@ -2,7 +2,6 @@
 title: J.P. Morgan Privacy-Preserving Inventory Matching
 date: 2023-06-27 06:24:30 -0800
 categories: [Private Inventory Matching]
-tags: [J.P. Morgan]
 toc: true
 image:
     path: https://investorjunkie.com/wp-content/uploads/2022/05/JP-Morgan-Self-Directed-Investing-Review.png

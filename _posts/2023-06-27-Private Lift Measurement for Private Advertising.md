@@ -2,7 +2,6 @@
 title: Meta Private Lift Measurement for Private Advertising
 date: 2023-06-27 06:24:30 -0800
 categories: [Private Advertisting]
-tags: [Meta]
 toc: true
 image:
     path: https://about.fb.com/wp-content/uploads/2021/08/CD21_428-NRP-PETs-and-How-They-Will-Apply-to-Ads_In-line.png?resize=890%2C501?w=1920

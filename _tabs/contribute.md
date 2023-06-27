@@ -4,7 +4,7 @@ icon: fas fa-pen
 order: 2
 ---
 
-> Submit a PR to add a deployment or update an existing one!
+> If you know of an MPC deployment that has been **deployed** and reached a **substantial number of users** in practice, submit a PR to add a deployment. Or update an existing entry!
 {: .prompt-tip }
 
 To add a new MPC deployment, you simply need to create a PR with a new Markdown file.
@@ -13,6 +13,3 @@ To add a new MPC deployment, you simply need to create a PR with a new Markdown 
 3. Fill in the deployment's information. Details above the `---` and the description are required. For examples of what text and typography is supported, see these [template](https://chirpy.cotes.page/posts/text-and-typography/) [resources](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md). Posts should be concise with an emphasis on links to where readers can learn more.
 4. Submit the PR with a description of the change to [github.com/dots-platform/dots-platform.github.io](https://github.com/dots-platform/dots-platform.github.io). To help us out, please [confirm locally](https://chirpy.cotes.page/posts/getting-started/#running-local-server) that your version renders.
 5. We will review the PR, suggest any changes, and hopefully merge your update!
-
-> **Note:** The MPC Deployment Dashboard only includes applications that have been deployed and reached a substantial number of users in practice.
-{: .prompt-warning }

@@ -2,7 +2,6 @@
 title: Fireblocks MPC Wallet
 date: 2023-06-27 06:24:30 -0800
 categories: [Crypto Wallet]
-tags: [Fireblocks]
 toc: true
 image:
     path: https://dev.rootstock.io/assets/img/solutions/fireblocks/fireblocks-banner.jpg

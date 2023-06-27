@@ -2,7 +2,6 @@
 title: MPC for Social Good
 date: 2023-06-27 06:24:30 -0800
 categories: [Social Good]
-tags: [Boston University]
 toc: true
 image:
     path: https://images.squarespace-cdn.com/content/v1/5c929cff51f4d4fc49ab6f8b/1556651262449-0UV2ZQJBNNKVI1IHT2MM/full+logo.png

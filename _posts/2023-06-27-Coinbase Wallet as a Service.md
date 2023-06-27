@@ -2,7 +2,6 @@
 title: Coinbase Wallet as a Service
 date: 2023-06-27 06:24:30 -0800
 categories: [Infrastructure,  Crypto Wallet]
-tags: [Coinbase]
 toc: true
 image:
     path: https://coincu.com/wp-content/uploads/2023/05/image-1191.png

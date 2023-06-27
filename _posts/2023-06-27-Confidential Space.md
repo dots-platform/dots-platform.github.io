@@ -2,7 +2,6 @@
 title: Google Confidential Space
 date: 2023-06-27 06:24:30 -0800
 categories: [Infrastructure]
-tags: [Google]
 toc: true
 image:
     path: https://storage.googleapis.com/gweb-cloudblog-publish/images/Confidential_Space.max-2600x2600.jpg

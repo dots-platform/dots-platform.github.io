@@ -2,7 +2,6 @@
 title: ZenGo MPC Wallet
 date: 2023-06-27 06:24:30 -0800
 categories: [Crypto Wallet]
-tags: [ZenGo]
 toc: true
 image:
     path: https://techcrunch.com/wp-content/uploads/2020/11/zengo-visa-cardapp2.jpg?w=1390&crop=1
