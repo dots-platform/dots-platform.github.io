@@ -1,5 +1,5 @@
 ---
-title: Privacy-Preserving COVID-19 Exposure Notifications
+title: Google & Apple, Privacy-Preserving COVID-19 Exposure Notifications
 date: 2023-06-27 06:24:30 -0800
 categories: [Private Analytics]
 tags: [Apple, Google, Internet Security Research Group, MITRE, National Institute of Health]

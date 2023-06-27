@@ -1,5 +1,5 @@
 ---
-title: Private Join and Compute
+title: Google Private Join and Compute
 date: 2023-06-27 06:24:30 -0800
 categories: [Infrastructure]
 tags: [Google]

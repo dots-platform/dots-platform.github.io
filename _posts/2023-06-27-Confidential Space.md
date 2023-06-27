@@ -1,5 +1,5 @@
 ---
-title: Confidential Space
+title: Google Confidential Space
 date: 2023-06-27 06:24:30 -0800
 categories: [Infrastructure]
 tags: [Google]

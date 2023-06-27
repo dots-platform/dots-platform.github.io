@@ -5,16 +5,16 @@
 layout:
   post: Post
   category: Category
-  tag: Tag
+  # tag: Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Deployments
   categories: Categories
-  tags: Institutions
+  # tags: Institutions
   archives: Archives
-  about: Contributors
+  about: Maintainers
 
 # the text displayed in the search bar & search results
 search:

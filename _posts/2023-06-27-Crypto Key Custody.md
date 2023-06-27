@@ -1,5 +1,5 @@
 ---
-title: Cryptocurrency Key Custody
+title: Coinbase Cryptocurrency Key Custody
 date: 2023-06-27 06:24:30 -0800
 categories: [Crypto Wallet]
 tags: [Coinbase]

@@ -1,5 +1,5 @@
 ---
-title: Private Lift Measurement for Private Advertising
+title: Meta Private Lift Measurement for Private Advertising
 date: 2023-06-27 06:24:30 -0800
 categories: [Private Advertisting]
 tags: [Meta]
