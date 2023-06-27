@@ -1,0 +1,22 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+darya:
+  name: Darya Kaviani
+  url: https://daryakaviani.com/
+  twitter: daryakaviani
+
+raluca:
+  name: Prof. Raluca Ada Popa
+  url: https://people.eecs.berkeley.edu/~raluca/
+  twitter: ralucaadapopa
+
+joe:
+  name: joeee
+  url: joe.com
+# Add new authors here
