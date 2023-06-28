@@ -1,5 +1,5 @@
 ---
-title: Institutional Web3 Walle
+title: Institutional Web3 Wallet
 date: 2023-06-28 11:15:00 -0800
 categories: [Crypto Wallet]
 toc: true
