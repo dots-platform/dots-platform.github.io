@@ -4,7 +4,7 @@ date: 2023-06-27 06:24:30 -0800
 categories: [Crypto Wallet]
 toc: true
 image:
-    path: https://media.cleanshot.cloud/media/9395/Ywhw9qSPYKF0V7YhHxN1uIgp1IbHBjtjt1hJmZ7I.jpeg?Expires=1687953557&Signature=c-2JkDu0MANpaoQyiLhjHUbv8tjClfoTj~9s-bpiapK8AYaSCDEeSc5HqiFFSkEVe1ousDave6btGQOoN-g7bSzqUmJek-JBuhBq47SuZsPPoLDWRYg~6une3Fq-6Eo~Y7cmaRys4FtxNRVQydB7-vqeq9YDu2CU2Otr88E3tCIa1X9bwQ7QHa2rZnHdolwjJ6JDDtkeakDcj0q93Ok164-vPpmsiw2iXa-RDX2kDOdUqkI7Fb42-1B3t-gA66vpGxxKeGdSpBYdo0Tf2pfoRdY-vvpWQqWpkwgkY79KW3KU2d9UcTcGDojN~TSTGtWtEgEFAP0VhFNwc7fscxKa~A__&Key-Pair-Id=K269JMAT9ZF4GZ
+    path: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4bceec2a-3b27-47fd-91ce-45c93cf1274c%2FUntitled.png?table=block&id=c84d7635-bab4-4437-898b-961c556ef7b2&spaceId=85d84701-7672-4213-b7b6-d2de90f117b7&width=2000&userId=4437e3b9-e2de-4cb0-890e-b0aa85895308&cache=v2
 ---
 
 Zengo, like other MPC wallets, replaces the traditional cryptocurrency private key with two secret shares. Zengo Threshold Signature Schemes (TSS) for distributed key generation and signing. One share is stored on the client device and another on a Zengo server.
