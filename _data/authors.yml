@@ -19,4 +19,9 @@ raluca:
 joe:
   name: joeee
   url: joe.com
+
+kane:
+  name: Kane Wang
+  url: https://www.linkedin.com/in/kane-wang/
+  twitter: 0xkaneGM 
 # Add new authors here
