@@ -8,7 +8,7 @@ image:
 author: kane
 ---
 
-Safeheron is an Open-source MPC & TEE-based digital asset self-custody service platform for institutions. Utilizing Secure Multi-Party Computation (MPC) and Trusted Execution Environment (TEE) technology, Safeheron provides comprehensive self-custody solutions for institutional customers. Our solutions ensure that customers have complete control over their private keys and assets while enhancing security and efficiency. 
+Safeheron is an Open-source MPC and TEE-based digital asset self-custody service platform for institutions. Utilizing Secure Multi-Party Computation (MPC) and Trusted Execution Environment (TEE) technology, Safeheron provides comprehensive self-custody solutions for institutional customers. Our solutions ensure that customers have complete control over their private keys and assets while enhancing security and efficiency. 
 
 ![Safeheron Underlying MPC Architecture](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F123f0c87-d094-4429-aeec-7f53e02e9031%2FSafeheron_underlying_MPC_architecture.png?id=158a87e5-82ac-49d1-b8a0-8e29c3e1c571&table=block&spaceId=2a58b8e1-a694-4ef1-bf91-64638150deac&width=2000&userId=&cache=v2)
 
