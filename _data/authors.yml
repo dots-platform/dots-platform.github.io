@@ -23,5 +23,11 @@ joe:
 aditya:
   name: Aditya Gite
   url: https://twitter.com/ad_git
+  twitter: ad_git
   
+kane:
+  name: Kane Wang
+  url: https://www.linkedin.com/in/kane-wang/
+  twitter: 0xkaneGM 
+
 # Add new authors here
