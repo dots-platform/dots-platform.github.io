@@ -3,14 +3,14 @@ title: Institutional Web3 Wallet
 date: 2023-06-28 11:15:00 -0800
 categories: [Crypto Wallet]
 toc: true
+author: aditya
 image:
-    path: https://mma.prnewswire.com/media/1940955/Fordefi_Logo.jpg
+    path: https://mma.prnewswire.com/media/2033064/Fordefi_logo.jpg?p=facebook
 ---
 
-Fordefi is the first and only institutional MPC wallet and security platform built for DeFi. 
-Securely transact, trade, lend, stake, and vote in DeFi. Access unlimited DeFi opportunities with Fordefi’s MPC wallet platform and web3 gateway,
- enabling you to seamlessly connect to dApps across a wide range of chains while keeping your digital assets secure.
+Fordefi is an institutional MPC wallet and security platform built for DeFi (decentralized finance). Fordefi leverages MPC in ensuring the security of transactions that are central to DeFi: trading, lending, staking, and voting. 
 
+Fordefi’s MPC wallet platform and web3 gateway enable users to seamlessly connect to dApps across a wide range of chains while keeping digital assets secure.
 
 ### Links
 [Fordefi](https://fordefi.com/)
