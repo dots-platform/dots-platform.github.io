@@ -1,5 +1,5 @@
 ---
-title: Institutional Web3 Wallet
+title: Fordefi MPC Wallet (DeFi)
 date: 2023-06-28 11:15:00 -0800
 categories: [Crypto Wallet]
 toc: true
