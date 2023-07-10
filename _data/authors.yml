@@ -16,12 +16,19 @@ raluca:
   url: https://people.eecs.berkeley.edu/~raluca/
   twitter: ralucaadapopa
 
-joe:
-  name: joeee
-  url: joe.com
-# Add new authors here
-
+aditya:
+  name: Aditya Gite
+  url: https://twitter.com/ad_git
+  twitter: ad_git
+  
+kane:
+  name: Kane Wang
+  url: https://www.linkedin.com/in/kane-wang/
+  twitter: 0xkaneGM 
+  
 parsa:
   name: Parsa Attari
-  twitter: ParsaAttari
   url: https://www.linkedin.com/in/parsa-attari-529ba8113/
+  twitter: ParsaAttari
+
+# Add new authors here
