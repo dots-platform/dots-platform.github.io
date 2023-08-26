@@ -1,10 +1,10 @@
 ---
-title: VaultDB: A Deployment of Secure Multiparty Computation within a Clinical Research Network
-date: 2023-08-26 14:30:00 -0800
+title: VaultDB: A Deployment of Secure Multiparty Computation for Clinical Research
+date: 2023-08-26 02:30:00 -0800
 categories: [Healthcare, Private Analytics]
 toc: true
 image:
-    path: http://users.eecs.northwestern.edu/~jennie/images/vaultdb-crn-arch-detail.png 
+    path: http://users.eecs.northwestern.edu/~jennie/images/vaultdb-crn-arch-detail.png
 author: jennie
 ---
 
