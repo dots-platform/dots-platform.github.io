@@ -16,4 +16,4 @@ VaultDB is a federated database for running SQL queries over secure multiparty c
 
 ### Links
 
-[arxiv](https://arxiv.org/abs/2203.00146)
+Rogers, Jennie, Elizabeth Adetoro, Johes Bater, Talia Canter, Dong Fu, Andrew Hamilton, Amro Hassan et al. "VaultDB: A Real-World Pilot of Secure Multi-Party Computation within a Clinical Research Network." arXiv preprint arXiv:2203.00146 (2022). [pdf](https://arxiv.org/pdf/2203.00146.pdf)
