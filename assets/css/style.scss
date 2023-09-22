@@ -17,3 +17,19 @@
 .author-info {
     font-size: 0.9em;
 }
+
+.rounded-10 {
+    border-radius: 10px !important;
+}
+
+.rounded-corners {
+    border-radius: 10px;
+    overflow: hidden;
+    display: inline-block;  /* Makes the div wrap around the image */
+}
+
+.rounded-corners img {
+    display: block;  /* Removes any unwanted space below the image */
+    width: 100%;     /* Ensures the image fills the entire div */
+    height: auto;
+}

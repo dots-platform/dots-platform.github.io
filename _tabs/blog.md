@@ -3,6 +3,7 @@ layout: page
 icon: fas fa-feather
 order: 2
 math: true
+hide: true
 ---
 
 {% for post in site.blog%}
