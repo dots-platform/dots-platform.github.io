@@ -1,7 +1,7 @@
 ---
 # layout: archives
 icon: fas fa-pen
-order: 2
+order: 3
 ---
 
 > If you know of an MPC deployment that has been **deployed** and reached a **substantial number of users** in practice, submit a PR to add a deployment. Or update an existing entry!

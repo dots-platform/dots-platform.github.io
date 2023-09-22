@@ -4,3 +4,16 @@
 @import '{{ site.theme }}';
 
 /* append your custom style below */
+
+/* Add to your CSS file */
+.author-name {
+    font-weight: bold;
+}
+
+.author-affiliation {
+    font-style: italic;
+}
+
+.author-info {
+    font-size: 0.9em;
+}

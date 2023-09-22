@@ -11,8 +11,8 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Deployments
+  blog: Blog
   categories: Categories
-  # tags: Institutions
   archives: Archives
   about: Maintainers
 
