@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Deployment Dilemma: Merits & Challenges of Deploying MPC"
-date: 2023-09-27
+date: 2023-09-27 10:00:00 -0800
 math: true
 custom_authors: true
 excerpt: "MPC, or secure multi-party computation, is a powerful class of cryptographic primitives that enables a host of privacy-preserving systems. In MPC, $n$ parties each have an input $s_i$, and aim to compute a joint function $f(s_1, …, s_n)$. Because parties can only learn the function’s output, each party’s input is entirely hidden from the rest.
@@ -73,7 +73,7 @@ The [UC Berkeley security group](https://people.eecs.berkeley.edu/~raluca/) is c
 
 # From pure to practical MPC
 
-In the “Pure MPC” setting, cryptographers assume that MPC parties are run in separate *trust domains*, establishing strong conjectures and abstractions about their behavior. “Pure MPC” assumes a set of synthetic conditions that cannot be taken for granted in the real world. As we venture beyond the theoretical realm, MPC is no longer run among hypothetical parties with arbitrary degrees of honesty. In a practical deployment, *real* organizations serve as trust domains, unearthing a host of practical considerations. In fact, deploying MPC in production requires answering a host of questions, such as:
+In the “Pure MPC” setting, cryptographers assume that MPC parties are run in separate *trust domains*, establishing strong conjectures and abstractions about their behavior. “Pure MPC” assumes a set of synthetic conditions that cannot be taken for granted in the real world. As we venture beyond the theoretical realm, MPC is no longer run among hypothetical parties with arbitrary degrees of honesty. In a practical deployment, *real* organizations serve as trust domains, unearthing a host of practical considerations, such as:
 
 | Who are the parties among which we can run MPC? |
 | Who assigns session IDs across multi-round protocols? Are we trusting a centralized entity to assign them?                              |
@@ -132,7 +132,7 @@ Cloud deployments also implicate system cost. In ISRG’s experience, a core cha
 
 # It’s $n$ times the work!
 
-Operating in a multi-cloud setting is challenging, especially when secure enclaves are involved. For example, AWS Nitro involves attesting to an AWS Docker container, while AMD-SEV attests to a kernel, neither of which support application-level attestation like Intel SGX. Recently, Signal allocated significant development resources toward finding ways to achieve acceptable application-level attestation and reproducible builds on multiple platforms, and this remains the foremost obstacle to eventual deployment. Once these issues are addressed, Signal will also need to allocate operations engineering resources towards handling the inconsistencies between the different enclaves offered by distinct clouds. While cross-cloud deployment tools like Terraform exist, they can only abstract away cloud provider differences for the simplest of multi-cloud operations, excluding more complex cloud-specific services such as storage and enclaves.
+Operating in a multi-cloud setting is challenging, especially when secure enclaves are involved. For example, AWS Nitro involves attesting to an AWS Docker container, while AMD-SEV attests to a kernel, neither of which support application-level attestation like Intel SGX. Recently, Signal allocated significant development resources toward finding ways to achieve acceptable application-level attestation and reproducible builds on multiple platforms, and this remains the foremost obstacle to eventual deployment. Once these issues are addressed, Signal will also need to allocate operations engineering resources towards handling the inconsistencies between the different enclaves offered by distinct clouds. While cross-cloud deployment tools like Terraform exist, they can only abstract away cloud provider differences for the simplest of multi-cloud operations, excluding more complex cloud-specific services such as enclaves.
 
 ![Cloud Enclaves](/assets/img/cloudenclaves.png){: width="972" height="589" .shadow .rounded-corners}
 _Cloud providers and their distinct hardware enclave offerings: Google Cloud with AMD-SEV, AWS with AWS Nitro, and Azure with Intel SGX._
