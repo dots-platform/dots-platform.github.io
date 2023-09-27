@@ -4,6 +4,9 @@ title: "The Deployment Dilemma: Merits & Challenges of Deploying MPC"
 date: 2023-09-27 10:00:00 -0800
 math: true
 custom_authors: true
+categories: blog
+image:
+    path: /assets/img/mpc.png
 excerpt: "MPC, or secure multi-party computation, is a powerful class of cryptographic primitives that enables a host of privacy-preserving systems. In MPC, $n$ parties each have an input $s_i$, and aim to compute a joint function $f(s_1, …, s_n)$. Because parties can only learn the function’s output, each party’s input is entirely hidden from the rest.
 
 In recent years, milestones in the efficiency of MPC protocols have opened a new door: leveraging MPC in broad-reaching, user-facing applications. But designing and implementing an MPC protocol is only the first step to deploying an end-to-end MPC application.
