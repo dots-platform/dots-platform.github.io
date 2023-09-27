@@ -65,9 +65,10 @@ Following the success of ENPA, ISRG is now developing [Divvi Up](https://divviup
 
 ### UC Berkeley Security Group
 
-![Berkeley](/assets/img/berkeley.jpg){: .shadow .w-25 .rounded-corners .right}
+![ENPA Overview](/assets/img/securitygroup.png){: width="972" height="589" .shadow .w-75 .rounded-corners}
+_The UC Berkeley Security Group's research projects in the MPC systems stack_
 
-The [UC Berkeley security group](https://people.eecs.berkeley.edu/~raluca/) is conducting research to enable more efficient and easy-to-use MPC systems. This includes MPC systems for collaborative learning (Elsa, Piranha, Helen, Holmes, Cerebro, Delphi, Muse), collaborative analytics (Senate), secure authentication (MPCAuth), or secure databases (Waldo), as well as rethinking the systems stack for MPC (MAGE, CostCO). The group is hosting a list of MPC deployments at [mpc.cs.berkeley.edu](http://mpc.cs.berkeley.edu/) based on community contributions.
+The [UC Berkeley security group](https://people.eecs.berkeley.edu/~raluca/) is conducting research to enable more efficient and easy-to-use MPC systems. This includes MPC systems for collaborative learning ([ELSA](https://eprint.iacr.org/2022/1695), [Piranha](https://www.usenix.org/system/files/sec22-watson.pdf), [Helen](https://people.eecs.berkeley.edu/~raluca/helen_ieeesp.pdf), [HOLMES](https://www.usenix.org/system/files/usenixsecurity23-chang.pdf), [Cerebro](https://www.usenix.org/conference/usenixsecurity21/presentation/zheng), [Delphi](https://www.usenix.org/conference/usenixsecurity20/presentation/mishra), [Muse](https://www.usenix.org/conference/usenixsecurity21/presentation/lehmkuhl)), collaborative analytics ([Senate](https://www.usenix.org/conference/usenixsecurity21/presentation/poddar)), secure authentication ([MPCAuth](https://eprint.iacr.org/2021/342)), or secure databases ([Waldo](https://ieeexplore.ieee.org/document/9833611)), as well as rethinking the systems stack for MPC ([MAGE](https://www.usenix.org/conference/osdi21/presentation/kumar), [CostCO](https://eprint.iacr.org/2022/332)). The group is hosting a list of MPC deployments at [mpc.cs.berkeley.edu](http://mpc.cs.berkeley.edu/) based on community contributions.
 
 
 # From pure to practical MPC
