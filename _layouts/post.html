@@ -18,6 +18,12 @@ tail_includes:
     <span>
       {{ site.data.locales[lang].post.posted }}
       {% include datetime.html date=page.date tooltip=true lang=lang %}
+      
+      {% if page.custom_authors %} <!-- Display read time next to the date if custom_authors is true -->
+        &bull;
+        {% include read-time.html content=content prompt=true lang=lang %}
+      {% endif %}
+      
     </span>
 
     <!-- lastmod date -->
@@ -50,24 +56,26 @@ tail_includes:
   <div class="d-flex justify-content-between">
     <!-- author(s) -->
     <span>
-      {% if page.author %}
-        {% assign authors = page.author %}
-      {% elsif page.authors %}
-        {% assign authors = page.authors %}
-      {% endif %}
+      {% unless page.custom_authors %} <!-- Add this condition -->
+        {% if page.author %}
+          {% assign authors = page.author %}
+        {% elsif page.authors %}
+          {% assign authors = page.authors %}
+        {% endif %}
 
-      {{ site.data.locales[lang].post.written_by }}
+        {{ site.data.locales[lang].post.written_by }}
 
-      <em>
-      {% if authors %}
-        {% for author in authors %}
-          <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
-          {% unless forloop.last %}</em>, <em>{% endunless %}
-        {% endfor %}
-      {% else %}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
-      {% endif %}
-      </em>
+        <em>
+        {% if authors %}
+          {% for author in authors %}
+            <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
+            {% unless forloop.last %}</em>, <em>{% endunless %}
+          {% endfor %}
+        {% else %}
+          <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
+        {% endif %}
+        </em>
+      {% endunless %} <!-- Close the condition here -->
     </span>
 
     <div>
@@ -82,7 +90,9 @@ tail_includes:
       {% endif %}
 
       <!-- read time -->
-      {% include read-time.html content=content prompt=true lang=lang %}
+      {% unless page.custom_authors %} <!-- Display read time here only if custom_authors is NOT true -->
+        {% include read-time.html content=content prompt=true lang=lang %}
+      {% endunless %}
     </div>
 
   </div> <!-- .d-flex -->
