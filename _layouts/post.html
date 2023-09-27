@@ -35,7 +35,7 @@ tail_includes:
     {% endif %}
 
   {% if page.image %}
-    {% unless page.categories contains 'blog' %}
+    {% unless page.path contains '_blog/' %}
       {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
       {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
       {% capture alt %}alt="{{ page.image.alt | default: "Preview Image" }}"{% endcapture %}
@@ -54,6 +54,7 @@ tail_includes:
       </div>
     {% endunless %}
   {% endif %}
+  
   
 
   <div class="d-flex justify-content-between">
