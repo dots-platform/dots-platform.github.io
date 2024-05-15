@@ -4,7 +4,7 @@ date: 2023-07-06 16:40:00 -0800
 categories: [Infrastructure, Crypto Wallet]
 toc: true
 image:
-    path: https://storage.googleapis.com/portal-logos-and-images/portal-product-image.png
+    path: /assets/img/portal.png
 author: parsa
 ---
 

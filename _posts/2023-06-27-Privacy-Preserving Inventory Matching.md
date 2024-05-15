@@ -4,7 +4,7 @@ date: 2023-06-27 06:24:30 -0800
 categories: [Private Inventory Matching]
 toc: true
 image:
-    path: https://investorjunkie.com/wp-content/uploads/2022/05/JP-Morgan-Self-Directed-Investing-Review.png
+    path: /assets/img/jpmorgan-chase.jpeg
 ---
 
 Inventory matching is a mechanism for trading financial stocks in which buyers and sellers are paired. In the centralized setting, parties must share their order to buy or sell a stock, accompanied by the quantity. This is sensitive information that could cause adverse price movements prematurely, swaying prices adversely before a transaction finalizes. Prime Match allows clients to match their orders with reduced market impact while maintaining privacy through MPC. Prime Match runs in production at J.P Morgan, a large U.S. bank.

@@ -5,7 +5,7 @@ categories: [Crypto Wallet]
 toc: true
 author: aditya
 image:
-    path: https://mma.prnewswire.com/media/2033064/Fordefi_logo.jpg?p=facebook
+    path: /assets/img/fordefi.jpeg
 ---
 
 Fordefi is an institutional MPC wallet and security platform built for DeFi (decentralized finance). Fordefi leverages MPC in ensuring the security of transactions that are central to DeFi: trading, lending, staking, and voting. 

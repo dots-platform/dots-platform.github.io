@@ -4,7 +4,7 @@ date: 2023-06-29 01:08:12 -0800
 categories: [Infrastructure, Crypto Wallet]
 toc: true
 image:
-    path: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F70fd8a86-6135-4da8-8d2c-8d54e868c0c6%2FSafeheron2019.png?id=1aeaaacb-c814-4701-b6ba-0d25193a771c&table=block&spaceId=2a58b8e1-a694-4ef1-bf91-64638150deac&width=1480&userId=&cache=v2
+    path: /assets/img/safeheron.png
 author: kane
 ---
 

@@ -4,7 +4,7 @@ date: 2023-06-27 06:24:30 -0800
 categories: [Private Advertisting]
 toc: true
 image:
-    path: https://about.fb.com/wp-content/uploads/2021/08/CD21_428-NRP-PETs-and-How-They-Will-Apply-to-Ads_In-line.png?resize=890%2C501?w=1920
+    path: /assets/img/meta.png
 ---
 
 Meta’s Private Lift Measurement uses MPC to allow both Meta and an advertiser to learn insights about how an ad is performing without the need to trust either party with both datasets. MPC limits the information that can be learned by either Meta or the advertiser.

@@ -4,7 +4,7 @@ date: 2023-08-26 02:30:00 -0800
 categories: [Healthcare, Private Analytics]
 toc: true
 image:
-    path: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4fb68682-34f4-4a82-b990-0a06e1eec183%2FUntitled.png?table=block&id=ad35f427-e6df-4225-9963-d9d7e03d2b62&spaceId=85d84701-7672-4213-b7b6-d2de90f117b7&width=2000&userId=4437e3b9-e2de-4cb0-890e-b0aa85895308&cache=v2
+    path: /assets/img/vaultdb.png
 author: jennie
 ---
 

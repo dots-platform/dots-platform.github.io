@@ -4,7 +4,7 @@ date: 2023-06-27 06:24:30 -0800
 categories: [Infrastructure,  Crypto Wallet]
 toc: true
 image:
-    path: https://coincu.com/wp-content/uploads/2023/05/image-1191.png
+    path: /assets/img/coinbase.gif
 ---
 
 Coinbase’s Wallet as a Service (WaaS) is a set of wallet infrastructure APIs, enabling companies to create and deploy customizable wallets. Wallets built with WaaS will use MPC for generating signatures on transactions. The key is secret-shared between the end user and Coinbase. Coinbase uses public-verifiable backups in the case of an end user losing access to their device. 

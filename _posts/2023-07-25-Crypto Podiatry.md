@@ -4,7 +4,7 @@ date: 2023-07-25 15:00:00 +0100
 categories: [Private Analytics]
 toc: true
 image:
-    path: https://rosemanlabs.com/assets/img/roseman_labs_white_bg_fonts_OG.png
+    path: /assets/img/roseman.png
 author: meilof
 ---
 
@@ -24,5 +24,5 @@ the data subjects.
 ### Links
 
 For more information, visit the
-[NVvP’s press release](https://www.podotherapie.nl/de-podotherapeut/nieuws-blogs/datawerkplaats-officieel-gelanceerd/)
+[here](https://rosemanlabs.com/en/customers/nederlandse-vereniging-van-podotherapeuten-nvvp)
 (in Dutch).

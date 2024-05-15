@@ -4,7 +4,7 @@ date: 2023-06-27 06:24:30 -0800
 categories: [Private Analytics]
 toc: true
 image:
-    path: https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/1200x800/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/21831792/COVID_19_Exposure_Notification_Update_9.1.20___Hero_Screens.001.jpeg
+    path: /assets/img/covid.png
 ---
 
 The Internet Security Research Group (ISRG) and the National Institute of Health (NIH) use MPC for extracting private analytics from COVID-19 Exposure Notifications from Google and Apple devices. The objective is to allow Public Health Authorities (PHAs) to collect meaningful data from user devices (e.g. the total number of exposure notification alerts) without exposing any one client’s data.

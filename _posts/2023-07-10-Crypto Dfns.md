@@ -4,7 +4,7 @@ date: 2023-07-10 02:15:30 -0800
 categories: [Crypto Wallet, Infrastructure]
 toc: true
 image:
-    path: https://assets.website-files.com/6248142028928a25074e21ec/6257c3f5bc96177c02d99f44_opengraph.png
+    path: /assets/img/dfns.png
 author: darya
 ---
 

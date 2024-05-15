@@ -4,7 +4,7 @@ date: 2023-06-27 06:24:30 -0800
 categories: [Private Analytics]
 toc: true
 image:
-    path: https://divviup.org/images/DivviUpSocialShare.png
+    path: /assets/img/divviup-logo.png
 ---
 
 Divvi Up is the Internet Security Research Group’s system for private statistical aggregation of software telemetry. Divvi Up offers the Prio3 suite of algorithms. Applications upon which these aggregate statistics are collected include web browsers, mobile applications, or websites. Divvi Up is the evolution of the [experiment run with Mozilla](https://blog.mozilla.org/security/2019/06/06/next-steps-in-privacy-preserving-telemetry-with-prio/), in which Prio was used to collect browser Telemetry data.

@@ -4,7 +4,7 @@ date: 2023-06-27 06:24:30 -0800
 categories: [Infrastructure]
 toc: true
 image:
-    path: https://storage.googleapis.com/gweb-cloudblog-publish/images/Confidential_Space.max-2600x2600.jpg
+    path:  /assets/img/google.jpg
 ---
 
 Google Cloud’s Confidential Space allows Google Cloud customers to deploy MPC solutions.  Confidential Spaces can facilitate data analysis and machine learning on sensitive or regulated data among distrusting parties, an effort to ease tensions between data sharing and regulatory requirements by encouraging collaboration while maintaining data privacy. One potential application includes MPC wallets, in which the sensitive operation (signature generation using the key shards) can occur within a TEE.
